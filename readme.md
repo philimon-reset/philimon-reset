@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently tinkering with graphics programming and trying to make my own 3D renderer. <br>Loving the .Net Ecosystem and working to expand my toolset.<br>Always brainstorming the next project that will take over my free time.
+Currently tinkering with graphics programming and trying to recreate the wonders of computer graphics. <br>Loving the .Net Ecosystem and working to expand my toolset.<br>Always brainstorming the next project idea that will take over my life for the next 6 month 😄.
 
 
 ## 🌐 Socials:
